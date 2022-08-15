@@ -7,3 +7,6 @@ Código para geração de datasets de treinamento e validação
 
 ## Rede2:
 Código para execução do treinamento, subir arquivos auxiliares na pasta principal do Colab antes de rodar
+
+## Baixar dados:
+https://drive.google.com/file/d/1xgjg-5JnEW8NVgmlB0t3TSeghsOEk3mV/view?usp=sharing
